@@ -1,0 +1,26 @@
+#thumbBox
+{
+    position: relative;
+    display: block;
+    width: 435px;
+    height: 435px;
+    margin-left: auto;
+    margin-right: auto;
+    /* CSS makes it so easy to do vertical centering, we'll do it
+       manually. The outer div #content has height 450px at present*/
+    margin-top: 7px;
+}
+
+.thumb
+{
+    position: absolute;
+    display: block;
+    width: 125px;
+    height: 125px;
+}
+
+.thumb:hover
+{
+    opacity: 0.85;
+    filter:alpha(opacity=85);
+}

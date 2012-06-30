@@ -1,0 +1,20 @@
+#wrapper
+{
+		height: 150px;
+		background:  #FFF;
+}
+
+p
+{
+		display: none;
+}
+
+
+.thumb
+{
+		width: 120px;
+		height: 120px;
+		margin: 20px;
+		float: left;
+		background:  #FFF;
+}

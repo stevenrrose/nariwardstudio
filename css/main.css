@@ -1,0 +1,228 @@
+#wrapper
+{
+    position: relative;
+    width: 800px;
+    height: 600px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 1px #E7E7E7 solid;
+
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+}
+
+#logo
+{
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    width: 320px;
+    height: 50px;
+}
+
+ul#mainNav
+{
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    width: 800px;
+}
+
+ul#mainNav li
+{
+    float: left;
+    padding: 2px 40px;
+    color: #acaa9c;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+    font-weight: bold;
+    font-size: 1.5em;	/*18pt on standard settings*/
+}
+
+#mainContent
+{
+    position: relative;
+    top: 150px;
+    margin: 0 auto;
+    width: 630px;
+    height: 450px;
+
+    overflow: hidden;
+}
+
+#mainContent p
+{
+    padding: 0;
+    margin-bottom: 2em; 
+}
+
+/***********************************************************************/
+
+/* Fit inside mainContent */
+ul#archiveNav
+{
+    position: relative;
+    top: 10px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+ul#archiveNav li
+{
+    float: left;
+    padding: 2px 45px;
+    color: #acaa9c;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+    font-weight: bold;
+    font-size: 1em; 	/*18pt on standard settings*/
+}
+
+
+#mainSlider 
+{
+    position: absolute;
+    top: 310px;
+    width: 100%;
+    height: 20px;
+    background-image: url(../images/scrollbar.gif);
+
+    visibility: hidden;
+}
+
+#knob 
+{
+    width: 30px;
+    height: 20px;
+    background-image: url(../images/scrollbar-but.png);
+
+    visibility: hidden;
+}
+
+#thumbWrapper
+{
+    position: absolute;
+    top: 100px;
+    height: 120px;
+/* width set by main.js */
+}
+
+#thumbWrapper a
+{
+    float: left;
+    padding: 0 15px;
+}
+
+#thumbWrapper a:hover
+{
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+}
+
+#mainTitle
+{
+    position: relative;
+    top: 240px;
+    margin: 0 auto;
+    width: 300px;
+     
+    text-align: center;
+    font-size: 1.33em; 
+    font-weight: bold;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+}
+
+
+/***********************************************************************/
+
+#biographyText
+{
+    position: relative;
+    top: 10px;
+    margin: 0 auto;
+    width: 550px;
+    text-align: justify;
+}
+
+#biographyHead
+{
+    float: left;
+    margin: 4px 6px 0px 0px;
+}
+
+/***********************************************************************/
+
+#currentText
+{
+    position: relative;
+    top: 0px;
+    margin: 0 auto;
+    width: 550px;
+    text-align: center;
+}
+
+
+
+/***********************************************************************/
+
+ul#press
+{
+    position: relative;
+    top: 10px;
+    margin: 0 auto;
+    width: 450px;
+    
+    font-size: 1em;      /*11pt on standard settings*/
+    text-align: center;
+}
+
+ul#press li
+{
+    padding-bottom: 5px;
+}
+
+ul#press a
+{
+    font-weight: bold;
+    color: #acaa9c;
+}
+
+ul#press a:hover
+{
+    color: #2f1010;
+}
+
+/***********************************************************************/
+
+#contactText
+{
+    position: relative;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+#contactText h1
+{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #2f1010;
+    font-size: 1em; 
+    font-weight: bold;
+/*
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+*/
+}
+
+#contactText a
+{
+    display: block;
+    font-weight: bold;
+    font-size: 1.2em; 
+    margin-bottom: 5px;
+}
+
+#contactText a:hover
+{
+    color: #acaa9c;
+}

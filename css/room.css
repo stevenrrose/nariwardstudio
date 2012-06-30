@@ -1,0 +1,162 @@
+#wrapper
+{
+    position: relative;
+    width: 800px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #fff;
+    border: 1px #E7E7E7 solid;
+}
+
+#brand
+{
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    width: 320px;
+    height: 50px;
+
+    background-image: url("../images/logo.jpg");
+}
+
+#content
+{
+    position: absolute;
+    left: 165px;
+    top: 60px;
+    width: 470px;
+    height: 450px;
+/* overflow: hidden; */
+}
+
+#roomTitle
+{
+    position: absolute;
+    /* pin it below #content */
+    left: 165px;
+    top: 510px;
+    width: 470px;
+    padding-top: 7px;
+
+    text-align: center;
+    font-size: 1.5em; 
+    font-weight: bold;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+}
+
+#galleryNav
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 560px;
+    width: 660px;
+}
+
+a#nextTitle
+{
+    display: block;
+    float: right;
+    height: 20px;
+
+    font-size: 1em; 
+    font-weight: bold;
+    color: 	#babaac;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+}
+
+a#nextTitle img
+{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+a#nextTitle span
+{
+    position: absolute;
+    right: 25px;
+    top: 0px;
+    width: 300px;
+    text-align: right;
+}
+
+a#prevTitle
+{
+    display: block;
+    float: left;
+    height: 20px;
+
+    font-size: 1em; 
+    font-weight: bold;
+    color: 	#babaac;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
+}
+
+a#prevTitle img
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+a#prevTitle span
+{
+    position: absolute;
+    left: 25px;
+    top: 0px;
+    width: 300px;
+    text-align: left;
+}
+
+
+#workNavWrapper
+{
+    display: block;
+    position: absolute;
+    left: 60px;
+    top: 120px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #babaac;
+    font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;		
+}
+
+ul#workNav 
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 30px;
+}
+
+
+ul#workNav li 
+{
+    float: left;
+    padding-bottom: 25px;
+}
+
+ul#workNav li img 
+{
+    display: block;    
+}
+
+#workNavKey
+{
+    width: 100px;
+    height: 35px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 0px;
+    text-align: center;
+}
+
+
+ul#workNav li img:hover
+{
+    opacity: 0.6;
+    filter:alpha(opacity=60);
+}

@@ -1,0 +1,29 @@
+*
+{
+    padding: 0; 
+    margin: 0;
+    outline: none;
+    border: none;
+}
+
+a
+{
+    color: #664747;
+    /* color: #773333; */
+    text-decoration: none;
+}
+
+ul
+{
+    list-style: none;
+}
+
+body
+{
+    background-image: url(../images/background-texture.gif);
+    color: #664747;
+    /* color: #773333; */
+    font-family: 'Verdana', 'Trebuchet MS', 'helvetica', sans-serif;
+    font-size: .75em; 					/*12pt on standard settings*/
+    letter-spacing: .1em;
+}

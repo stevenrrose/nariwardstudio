@@ -1,0 +1,18 @@
+#textBox
+{
+		/* based on #content */
+		/* width: 450px; */
+		margin-top: 70px;
+		margin-left: 18px;
+		margin-right: 18px;
+
+		font-size: 1.083em; 		/* 13pt on standard settings */
+		letter-spacing: 0em;
+		line-height: 1.5em;
+		text-align: justify;
+}
+
+#info
+{
+		margin-bottom: 12px;
+}

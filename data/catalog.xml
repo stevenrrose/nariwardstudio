@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+
+<gallery>
+  <room>
+    <uri>amazing-grace</uri>
+    <title>Amazing Grace</title>
+    <year>1993</year>
+    <audio></audio>
+    <drawings>amazing-grace-drawings.html</drawings>
+    <images>amazing-grace-images.html</images>
+    <text>amazing-grace-text.html</text>
+    <video></video>
+  </room>
+  <!-- There are two different dates hanging around for Exodus, 93 and 96! -->
+  <room>
+    <uri>exodus</uri>
+    <title>Exodus</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>exodus-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>hunger-cradle</uri>
+    <title>Hunger Cradle</title>
+    <year>1993</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>hunger-cradle-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>iron-heavens</uri>
+    <title>Iron Heavens</title>
+    <year>1995</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>iron-heavens-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>super-stud</uri>
+    <title>Super Stud</title>
+    <year>1995-2001</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>super-stud-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>happy-smilers</uri>
+    <title>Happy Smilers</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>happy-smilers-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>peacekeeper</uri>
+    <title>Peacekeeper</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>peacekeeper-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>threshold</uri>
+    <title>Threshold</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>threshold-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>vertical-hold</uri>
+    <title>Vertical Hold</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>vertical-hold-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>waiting-trees</uri>
+    <title>Waiting Trees</title>
+    <year>1996</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>waiting-trees-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>virgin-fertility</uri>
+    <title>Virgin Fertility</title>
+    <year>1997</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>virgin-fertility-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>archipelago</uri>
+    <title>Archipelago</title>
+    <year>1998</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>archipelago-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>beat-box</uri>
+    <title>Beat Box</title>
+    <year>2000</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>beat-box-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>silent-mass</uri>
+    <title>Silent Mass</title>
+    <year>2001</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>silent-mass-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>land-and-landings</uri>
+    <title>Land and Landings</title>
+    <year>2002-2006</year>
+    <audio></audio>
+    <drawings>land-and-landings-drawings.html</drawings>
+    <images>land-and-landings-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>fortress</uri>
+    <title>Fortress</title>
+    <year>2002</year>
+    <audio></audio>
+    <drawings>fortress-drawings.html</drawings>
+    <images>fortress-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>illuminated</uri>
+    <title>Illuminated</title>
+    <year>2002</year>
+    <audio></audio>
+    <drawings>illuminated-drawings.html</drawings>
+    <images>illuminated-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>rites-of-way</uri>
+    <title>Rites of Way</title>
+    <year>2002</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>rites-of-way-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>airplane-tears</uri>
+    <title>Airplane Tears</title>
+    <year>2004</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>airplane-tears-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>copulations-series</uri>
+    <title>Copulations-series</title>
+    <year>2004</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>copulations-series-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>episodes</uri>
+    <title>Episodes</title>
+    <year>2004</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>episodes-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>glory</uri>
+    <title>Glory</title>
+    <year>2004</year>
+    <audio></audio>
+    <drawings>glory-drawings.html</drawings>
+    <images>glory-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>reading-room</uri>
+    <title>Reading Room</title>
+    <year>2004</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>reading-room-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>naturalization</uri>
+    <title>Naturalization</title>
+    <year>2004-2006</year>
+    <audio></audio>
+    <drawings>naturalization-drawings.html</drawings>
+    <images>naturalization-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>bottle-messenger</uri>
+    <title>Bottle Messenger</title>
+    <year>2005</year>
+    <audio></audio>
+    <drawings>bottle-messenger-drawings.html</drawings>
+    <images>bottle-messenger-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>crusader</uri>
+    <title>Crusader</title>
+    <year>2005</year>
+    <audio></audio>
+    <drawings>crusader-drawings.html</drawings>
+    <images>crusader-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+    <room>
+    <uri>good-citizen</uri>
+    <title>Good Citizen</title>
+    <year>2005</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>good-citizen-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>blacktop-man</uri>
+    <title>Blacktop Man</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings>blacktop-man-drawings.html</drawings>
+    <images>blacktop-man-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>bottle-whisperer</uri>
+    <title>Bottle Whisperer</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>bottle-whisperer-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>entrails</uri>
+    <title>Entrails</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>entrails-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>silent-birdhouse</uri>
+    <title>Silent Birdhouse</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings>silent-birdhouse-drawings.html</drawings>
+    <images>silent-birdhouse-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>smile</uri>
+    <title>Smile</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>smile-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>sweet-sweat</uri>
+    <title>Sweet Sweat</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings>sweet-sweat-drawings.html</drawings>
+    <images>sweet-sweat-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>white-flight</uri>
+    <title>White Flight Tea Room</title>
+    <year>2006</year>
+    <audio></audio>
+    <drawings></drawings>
+    <images>whiteflight-tea-images.html</images>
+    <text>whiteflight-tea-text.html</text>
+    <video></video>
+  </room>
+  <room>
+    <uri>soul-salvage</uri>
+    <title>Salvage Research Soul Training</title>
+    <year>2006-07</year>
+    <audio></audio>
+    <drawings>soul-salvage-drawings.html</drawings>
+    <images>soul-salvage-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>diamondgym</uri>
+    <title>Diamond Gym:Action Network</title>
+    <year>2008</year>
+    <audio></audio>
+    <drawings>diamondgym-drawings.html</drawings>
+    <images>diamondgym-images.html</images>
+    <text></text>
+    <video></video>
+  </room>
+  <room>
+    <uri>liquorsoul</uri>
+    <title>LiquorSoul</title>
+    <year>2008</year>
+    <audio></audio>
+    <drawings>liquorsoul-drawings.html</drawings>
+    <images>liquorsoul-images.html</images>
+    <text></text>
+    <video></video>
+  </room>  
+  <!-- <room> -->
+  <!--  <uri>white-flight-tea-bar</uri> -->
+  <!--  <title>White Flight Tea Bar</title> -->
+  <!--  <year>2006</year> -->
+  <!--  <audio></audio> -->
+  <!--  <drawings></drawings> -->
+  <!--  <images></images> -->
+  <!--  <text>white-flight-tea-bar-text.html</text> -->
+  <!--  <video></video> -->
+  <!-- </room> -->
+</gallery>
