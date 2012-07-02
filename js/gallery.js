@@ -119,42 +119,13 @@ function insertWorkNav(room){
 
 
 
-  // count buttons
-  // var numberButtons = 0;
-
-  // if (audio != ""){ 
-  //   numberButtons++; 
-  // }
-  // if (drawings != ""){
-  //   numberButtons++; 
-  // }
-  // if (images != ""){ 
-  //   numberButtons++; 
-  // }
-  // if (text != ""){ 
-  //   numberButtons++; 
-  // }
-  // if (video != ""){ 
-  //   numberButtons++; 
-  // }
-
-  
-
-  // if (numberButtons > 1){
-    
-
-
-
-  // }
-
-
-
   //buttons stores the HTML to be injected into #workNav	
   var buttons = "";
 
   //listeners is a stack of "add listener" type thunks to apply to the
   //buttons
   var listeners = [];
+
 
   if (images != ""){
 
@@ -164,7 +135,6 @@ function insertWorkNav(room){
 
     var imagesUri = path.concat(images);
     listeners.push(imagesListeners(imagesUri));
-
   }
 
   if (video != ""){
@@ -177,7 +147,6 @@ function insertWorkNav(room){
     listeners.push(videoListeners(videoUri));
   }
 
-
   if (drawings != ""){
 
     buttons += "<li id='drawings'>" +
@@ -186,7 +155,6 @@ function insertWorkNav(room){
 
     var drawingsUri = path.concat(drawings);
     listeners.push(drawingsListeners(drawingsUri));
-
   }
 
   if (audio != ""){
@@ -197,7 +165,6 @@ function insertWorkNav(room){
     
     var audioUri = path.concat(audio);
     listeners.push(audioListeners(audioUri));
-
   }
 
   if (text != ""){
@@ -208,7 +175,6 @@ function insertWorkNav(room){
 
     var textUri = path.concat(text);
     listeners.push(textListeners(textUri));
-
   }
   
   //Using listeners.length to measure the number of buttons. Don't
@@ -280,24 +246,75 @@ function audioListeners(uri){
   }
 }	
 
+
+
+
+
+function textCallback(data) {
+
+  var content = document.getElementById("content");
+  
+  var textBoxHTML = "<div id='textBox'>" + data + "</div>";
+  
+  content.innerHTML = textBoxHTML;
+  
+}
+
+
+
+
+function thumbsCallback(data) {
+
+  var content = document.getElementById("content");
+
+  content.style.display = "none";
+
+  var thumbBoxHTML = "<div id='thumbBox'>" + data + "</div>";
+
+  content.innerHTML = thumbBoxHTML;
+
+  
+  var thumbBox = document.getElementById("thumbBox");
+
+  arrangeThumbs(thumbBox);
+  
+  //add "click to view" hint
+  thumbBox.onmouseover = showKeyText("click to view");
+  thumbBox.onmouseout = clearKeyText;
+
+  
+  content.style.display = "block";
+  
+  //add slimbox events to each of the thumbs
+  var thumbs = content.getElementsByTagName("a");
+
+  //slimbox needs this to be a mootools Element
+  $$(thumbs).slimbox(); 
+}
+
+
+
+
+
 function viewImages(uri){
+
   return function(){
-    var content = document.getElementById("content");
-    xhrInstance(uri, insertThumbs(content));
+    jQuery.get(uri, thumbsCallback);
+  }
+}
+
+
+function viewDrawings(uri){
+
+  return function(){
+    jQuery.get(uri, thumbsCallback);
   }
 }
 
 function viewText(uri){
-  return function(){
-    var content = document.getElementById("content");
-    xhrInstance(uri, insertText(content));
-  }
-}
 
-function viewDrawings(uri){
   return function(){
-    var content = document.getElementById("content");
-    xhrInstance(uri, insertThumbs(content));
+    jQuery.get(uri, textCallback);
   }
 }
 
@@ -313,6 +330,10 @@ function viewVideo(uri){
   }
 }
 
+
+
+
+
 //showKeyText takes a string and injects it in #workNavKey
 function showKeyText(hint){
   return function(){
@@ -326,57 +347,8 @@ function clearKeyText(){
   key.innerHTML = "";
 }
 
-/*************************************************************/
-//           General purpose helpers (AJAX, etc)
-/*************************************************************/
 
 
-function xhrInstance(url,fn){
-  xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = fn;
-  xmlhttp.open("GET",url,true);
-  xmlhttp.send();
-}
-
-
-function insertText(element){
-  return function() {
-    if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      var textBoxHTML = 
-	"<div id='textBox'>"
-	.concat(xmlhttp.responseText)
-	.concat("</div>");
-      element.innerHTML = textBoxHTML;
-    }
-  }
-}
-
-function insertThumbs(element){
-  return function() {
-    if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      element.style.display = "none";
-      var thumbBoxHTML = 
-	"<div id='thumbBox'>"
-	.concat(xmlhttp.responseText)
-	.concat("</div>");
-      element.innerHTML = thumbBoxHTML;
-
-      var thumbBox = document.getElementById("thumbBox");
-      arrangeThumbs(thumbBox);
-      
-      //add "click to view" hint
-      thumbBox.onmouseover = showKeyText("click to view");
-      thumbBox.onmouseout = clearKeyText;
-
-      element.style.display = "block";
-
-      //add slimbox events to each of the thumbs
-      var thumbs = element.getElementsByTagName("a");
-      //slimbox needs this to be a mootools Element
-      $$(thumbs).slimbox();
-    }
-  }
-}
 
 function centerInParent(child, parent, offset){
   var center = parent.offsetHeight / 2;
