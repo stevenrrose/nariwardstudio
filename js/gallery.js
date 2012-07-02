@@ -1,14 +1,14 @@
+
 /*************************************************************/
 //                        "Main"
 /*************************************************************/
 
-function roomEvents(){
+function callback(data){
 
-  // first thing, what room is this?
+  var rooms = data.getElementsByTagName("room");
+
+  // what room is this?
   var roomUri = getRoomUri();
-
-  // load catalog.xml and the current room as XML.		
-  var rooms = loadCatalog();
   var roomIndex = getRoomIndex(rooms, roomUri);
   var room = rooms[roomIndex];
 
@@ -28,6 +28,17 @@ function roomEvents(){
   // add gallery navigation
   insertPrevTitle(getPrevRoom(rooms, roomIndex));
   insertNextTitle(getNextRoom(rooms, roomIndex));
+
+}
+
+
+
+function roomEvents(){
+
+  var url = genUriPath().concat("data/catalog.xml");
+
+  jQuery.get(url, callback);
+
 }
 
 window.addEvent("domready", roomEvents);
@@ -84,11 +95,16 @@ function getNextRoom(rooms, index){
   }
 }
 
+
+
+
 /*************************************************************/
 //           Fns to add work/room navigation
 /*************************************************************/
 
 function insertWorkNav(room){
+
+
   var nav = document.getElementById("workNav");
   
   //These are filenames or empty strings from catalog.xml
@@ -101,36 +117,98 @@ function insertWorkNav(room){
   //get URL path, append data/ to it
   var path = genUriPath().concat("data/");
 
+
+
+  // count buttons
+  // var numberButtons = 0;
+
+  // if (audio != ""){ 
+  //   numberButtons++; 
+  // }
+  // if (drawings != ""){
+  //   numberButtons++; 
+  // }
+  // if (images != ""){ 
+  //   numberButtons++; 
+  // }
+  // if (text != ""){ 
+  //   numberButtons++; 
+  // }
+  // if (video != ""){ 
+  //   numberButtons++; 
+  // }
+
+  
+
+  // if (numberButtons > 1){
+    
+
+
+
+  // }
+
+
+
   //buttons stores the HTML to be injected into #workNav	
   var buttons = "";
+
   //listeners is a stack of "add listener" type thunks to apply to the
   //buttons
   var listeners = [];
 
   if (images != ""){
-    buttons = buttons.concat(loadImagesButton());
+
+    buttons += "<li id='images'>" +
+      "<img src='images/but-00-img.gif' width='30' height='30'/>" +
+      "</li>";
+
     var imagesUri = path.concat(images);
     listeners.push(imagesListeners(imagesUri));
+
   }
+
   if (video != ""){
-    buttons = buttons.concat(loadVideoButton());
+
+    buttons += "<li id='video'>" +
+      "<img src='images/but-00-vid.gif' width='30' height='30'/>" +
+      "</li>";
+
     var videoUri = path.concat(video);
     listeners.push(videoListeners(videoUri));
   }
+
+
   if (drawings != ""){
-    buttons = buttons.concat(loadDrawingsButton());
+
+    buttons += "<li id='drawings'>" +
+      "<img src='images/but-00-draw.gif' width='30' height='30'/>" +
+      "</li>";
+
     var drawingsUri = path.concat(drawings);
     listeners.push(drawingsListeners(drawingsUri));
+
   }
+
   if (audio != ""){
-    buttons = buttons.concat(loadAudioButton());
+    
+    buttons += "<li id='audio'>" +
+      "<img src='images/but-00-aud.gif' width='30' height='30'/>" +
+      "</li>";
+    
     var audioUri = path.concat(audio);
     listeners.push(audioListeners(audioUri));
+
   }
+
   if (text != ""){
-    buttons = buttons.concat(loadTextButton());
+
+    buttons += "<li id='text'>" +
+      "<img src='images/but-00-txt.gif' width='30' height='30'/>" +
+      "</li>";
+
     var textUri = path.concat(text);
     listeners.push(textListeners(textUri));
+
   }
   
   //Using listeners.length to measure the number of buttons. Don't
@@ -155,30 +233,7 @@ function insertWorkNav(room){
   centerInParent(navWrapper, wrapper, -20);
 }
 
-function loadImagesButton(){
-  var uri = genUriPath().concat("room-buttons/button-images.html");
-  return loadText(uri);
-}
 
-function loadTextButton(){
-  var uri = genUriPath().concat("room-buttons/button-text.html");
-  return loadText(uri);
-}
-
-function loadAudioButton(){
-  var uri = genUriPath().concat("room-buttons/button-audio.html");
-  return loadText(uri);
-}
-
-function loadVideoButton(){
-  var uri = genUriPath().concat("room-buttons/button-video.html");
-  return loadText(uri);
-}
-
-function loadDrawingsButton(){
-  var uri = genUriPath().concat("room-buttons/button-drawings.html");
-  return loadText(uri);
-}
 
 function imagesListeners(uri){
   return function(){
@@ -275,30 +330,6 @@ function clearKeyText(){
 //           General purpose helpers (AJAX, etc)
 /*************************************************************/
 
-// The sync parameter is set to false, since without the data the
-// pages won't load properly anyway.
-function loadText(url){
-  xhttp=new XMLHttpRequest();
-  xhttp.open("GET",url,false);
-  xhttp.send();
-  return xhttp.responseText;
-} 
-
-function loadXML(url){
-  xhttp=new XMLHttpRequest();
-  xhttp.open("GET",url,false);
-  xhttp.send();
-  return xhttp.responseXML;
-} 
-
-//Not being used at the moment....
-function insertHtml(element){
-  return function() {
-    if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      element.innerHTML=xmlhttp.responseText;
-    }
-  }
-}
 
 function xhrInstance(url,fn){
   xmlhttp = new XMLHttpRequest();
@@ -306,6 +337,7 @@ function xhrInstance(url,fn){
   xmlhttp.open("GET",url,true);
   xmlhttp.send();
 }
+
 
 function insertText(element){
   return function() {
@@ -460,12 +492,6 @@ function arrangeThumbs(thumbBox)
 /************************************************************/
 // These functions are used to interact with catalog.xml. 
 
-// extracts an array of rooms from catalog.xml
-function loadCatalog(){
-  var uri = genUriPath().concat("data/catalog.xml");
-  var rooms = loadXML(uri).getElementsByTagName("room");
-  return rooms;
-}
 
 // takes catalog as an XML object and a uri and returns the index
 // of the room containing it
