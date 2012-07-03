@@ -1,20 +1,10 @@
 // Requires Mootools 1.3
 var mainEvents = function(){
 
-  fadeInWrapper();
+  jQuery("#wrapper").fadeIn(1000);
 
   setUpMenuAnchors();
 
-};
-
-
-var fadeInWrapper = function(){
-  var wrapper = $("wrapper");
-  var effect = new Fx.Morph(wrapper, {duration: 1000});
-  effect.start(
-    {"opacity": 1,
-     "filter": "alpha(opacity=1)"}
-  );
 };
 
 
@@ -300,6 +290,9 @@ var setUpArchiveAnchors = function(){
     openAnchor = anchor[0];
 
     var thumbWrapper = document.getElementById("thumbWrapper");
+
+
+
     //now make a mootools scrollbar
     var slider = $("mainSlider");
     var knob = $("knob");
@@ -313,6 +306,10 @@ var setUpArchiveAnchors = function(){
        }
       }
     );
+
+
+
+
 
     viewFn(anchor[1], scrollbar);
   };

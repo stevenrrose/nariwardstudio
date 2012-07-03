@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <link type="text/css" href="css/ui-lightness/jquery-ui-1.8.21.custom.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.8.21.custom.min.js"></script>
+
+    <script type="text/javascript">
+      $(function(){
+
+      $('#slider').slider();
+
+      });
+    </script>
+
+    <style>
+      :focus {
+      outline: none; 
+      }
+
+      body { 
+      margin: 50px; 
+      }
+
+      .ui-slider-handle {
+      border: none !important;
+      width: 30px !important;
+      height: 20px !important;
+      top: 0 !important;
+      margin-left: -15px;
+
+      background: url(../images/scrollbar-but.png) !important;
+      }
+
+      .ui-slider-horizontal {
+      border: none !important;
+      width: 100% !important;
+      height: 20px !important;
+
+      background: url(../images/scrollbar.gif) !important;
+      }
+    </style>
+
+  </head>
+  <body>
+
+    <div id="slider"></div>
+
+  </body>
+</html>
