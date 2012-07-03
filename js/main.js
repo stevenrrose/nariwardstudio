@@ -1,11 +1,3 @@
-// Requires Mootools 1.3
-var mainEvents = function(){
-
-  jQuery("#wrapper").fadeIn(1000);
-
-  setUpMenuAnchors();
-
-};
 
 
 var viewCurrent = function(){
@@ -189,51 +181,70 @@ var setUpArchiveAnchors = function(){
     anchor.style.color = "#2f1010";
   };
 
-  var viewFn = function(uri, scrollbar){
+
+
+  var viewFn = function(uri){
 
     var insertMainThumbs = function(response){
 
       var thumbWrapper = document.getElementById("thumbWrapper");
-      
-      //hide until it's set up
-      thumbWrapper.style.visibility = "hidden";
-      
+            
       //inject thumbs
       thumbWrapper.innerHTML = response;
+
+
 
       //Set width of the thumb wrapper
       var width = 0;
       var i = 0;
       var thumbs = thumbWrapper.getElementsByTagName("a");
+
       while (i < thumbs.length){
 	width = width + thumbs[i].offsetWidth;
 	i = i + 1;
       }  
+
       thumbWrapper.style.width = width + "px";
 
+
       //set up the scrollbar
+      jQuery("#mainSlider").slider("destroy");
+
       var contentWidth = document.getElementById("mainContent").offsetWidth;
       var thumbsWidth = thumbWrapper.offsetWidth;
-      var knob = $("knob");
-      var slider = $("mainSlider");
 
-      if (thumbsWidth > contentWidth){
+      if (thumbsWidth > contentWidth) {
 
-	scrollbar.setRange([0, thumbsWidth - contentWidth]);
-	scrollbar.set(0);
-	scrollbar.attach();
-	knob.setStyle("visibility", "visible");
+	jQuery("#mainSlider").slider({
+	  min: 0,
+	  max: thumbsWidth - contentWidth,
+	  value: 0,
+	  
+	  create: function(event, ui) {
+	    
+	    thumbWrapper.style.marginLeft = 0 + "px";
+	  },
+
+	  slide: function(event, ui) {
+	    
+	    thumbWrapper.style.marginLeft = (-1 * ui.value) + "px";
+	  }
+	});
+
       }
-      else{
-	
-	slider.removeEvents(); //since the slider detach method is dysfunctional
-	knob.removeEvents();
-	knob.setStyle("visibility", "hidden");
-	//center the few thumbs there are
-	thumbWrapper.style.marginLeft = ((contentWidth - thumbsWidth) / 2) + "px";
-      };
+      else {
+
+	thumbWrapper.style.marginLeft =
+	  ((contentWidth - thumbsWidth) / 2) + "px";
+      }
+
+
+
       
       
+      
+
+
       //Add titles next
       var uriFromThumb = function(thumb){
 
@@ -285,34 +296,16 @@ var setUpArchiveAnchors = function(){
     jQuery.get(uri, insertMainThumbs);
   };
 
+
+
   var onClickEvents = function(anchor){
     highlightAnchor(anchor[0]);
     openAnchor = anchor[0];
 
-    var thumbWrapper = document.getElementById("thumbWrapper");
-
-
-
-    //now make a mootools scrollbar
-    var slider = $("mainSlider");
-    var knob = $("knob");
-    slider.style.visibility = "visible";
-    var scrollbar = new Slider(
-      slider, knob,
-      {offset: -5,
-       steps: 620,
-       onChange: function(pos){
-	 thumbWrapper.style.marginLeft = (-1 * pos) + "px";
-       }
-      }
-    );
-
-
-
-
-
-    viewFn(anchor[1], scrollbar);
+    viewFn(anchor[1]);
   };
+
+
 
   var i = 0;
   while(i < anchors.length){
@@ -338,5 +331,12 @@ var setUpArchiveAnchors = function(){
 
 /***********************************************************************/
 
+var main = function(){
 
-window.addEvent("domready", mainEvents);
+  jQuery("#wrapper").fadeIn(1000);
+
+  setUpMenuAnchors();
+
+};
+
+jQuery(document).ready(main)
