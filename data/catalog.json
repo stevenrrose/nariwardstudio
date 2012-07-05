@@ -1,7 +1,7 @@
 {
   "catalog": [
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -10,12 +10,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 0, 
       "filename": "2008-liquor-soul-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -24,12 +24,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 1, 
       "filename": "2008-liquor-soul-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -38,12 +38,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 2, 
       "filename": "2008-liquor-soul-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -52,12 +52,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 3, 
       "filename": "2008-liquor-soul-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -66,12 +66,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 4, 
       "filename": "2008-liquor-soul-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -80,12 +80,12 @@
       "title": "LiquorSoul", 
       "thumb-filename": "th-2008-liquor-soul-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 5, 
       "filename": "2008-liquor-soul-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -94,12 +94,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 6, 
       "filename": "1993-amazinggrace-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -108,12 +108,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 7, 
       "filename": "1993-amazinggrace-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -122,12 +122,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 8, 
       "filename": "1993-amazinggrace-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -136,12 +136,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 9, 
       "filename": "1993-amazinggrace-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -150,12 +150,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 10, 
       "filename": "1993-amazinggrace-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -164,12 +164,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-1993-amazinggrace-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 11, 
       "filename": "1993-amazinggrace-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -178,12 +178,12 @@
       "title": "Amazing Grace", 
       "thumb-filename": "th-drw-1993-amazinggrace-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 12, 
       "filename": "drw-1993-amazinggrace-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -192,12 +192,12 @@
       "title": "Glory", 
       "thumb-filename": "th-2004-glory-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 13, 
       "filename": "2004-glory-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -206,12 +206,12 @@
       "title": "Glory", 
       "thumb-filename": "th-2004-glory-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 14, 
       "filename": "2004-glory-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -220,12 +220,12 @@
       "title": "Glory", 
       "thumb-filename": "th-2004-glory-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 15, 
       "filename": "2004-glory-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -234,12 +234,12 @@
       "title": "Glory", 
       "thumb-filename": "th-2004-glory-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 16, 
       "filename": "2004-glory-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -248,12 +248,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 17, 
       "filename": "drw-2004-06-naturalization-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -262,12 +262,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 18, 
       "filename": "drw-2004-06-naturalization-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -276,12 +276,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 19, 
       "filename": "drw-2004-06-naturalization-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -290,12 +290,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 20, 
       "filename": "drw-2004-06-naturalization-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -304,12 +304,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 21, 
       "filename": "drw-2004-06-naturalization-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -318,12 +318,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 22, 
       "filename": "drw-2004-06-naturalization-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -332,12 +332,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 23, 
       "filename": "drw-2004-06-naturalization-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -346,12 +346,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 24, 
       "filename": "drw-2004-06-naturalization-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -360,12 +360,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-drw-2004-06-naturalization-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 25, 
       "filename": "drw-2004-06-naturalization-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -374,12 +374,12 @@
       "title": "Airplane Tears", 
       "thumb-filename": "th-2004-airplanetears-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 26, 
       "filename": "2004-airplanetears-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -388,12 +388,12 @@
       "title": "Airplane Tears", 
       "thumb-filename": "th-2004-airplanetears-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 27, 
       "filename": "2004-airplanetears-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -402,12 +402,12 @@
       "title": "Airplane Tears", 
       "thumb-filename": "th-2004-airplanetears-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 28, 
       "filename": "2004-airplanetears-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -416,12 +416,12 @@
       "title": "Black Top Man", 
       "thumb-filename": "th-drw-2006-blacktopman-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 29, 
       "filename": "drw-2006-blacktopman-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -430,12 +430,12 @@
       "title": "Black Top Man", 
       "thumb-filename": "th-drw-2006-blacktopman-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 30, 
       "filename": "drw-2006-blacktopman-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -444,12 +444,12 @@
       "title": "Peacekeeper", 
       "thumb-filename": "th-1996-peacekeeper-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 31, 
       "filename": "1996-peacekeeper-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -458,12 +458,12 @@
       "title": "Peacekeeper", 
       "thumb-filename": "th-1996-peacekeeper-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 32, 
       "filename": "1996-peacekeeper-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -472,12 +472,12 @@
       "title": "Soul Salvage", 
       "thumb-filename": "th-drw-2006-soulsalvage-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 33, 
       "filename": "drw-2006-soulsalvage-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -486,12 +486,12 @@
       "title": "Soul Salvage", 
       "thumb-filename": "th-drw-2006-soulsalvage-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 34, 
       "filename": "drw-2006-soulsalvage-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -500,12 +500,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2005-goodcitizen-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 35, 
       "filename": "2005-goodcitizen-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -514,12 +514,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2005-goodcitizen-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 36, 
       "filename": "2005-goodcitizen-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -528,12 +528,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2005-goodcitizen-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 37, 
       "filename": "2005-goodcitizen-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -542,12 +542,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2005-goodcitizen-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 38, 
       "filename": "2005-goodcitizen-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -556,12 +556,12 @@
       "title": "Reading Room", 
       "thumb-filename": "th-2004-readingroom-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 39, 
       "filename": "2004-readingroom-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -570,12 +570,12 @@
       "title": "Reading Room", 
       "thumb-filename": "th-2004-readingroom-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 40, 
       "filename": "2004-readingroom-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -584,12 +584,12 @@
       "title": "Reading Room", 
       "thumb-filename": "th-2004-readingroom-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 41, 
       "filename": "2004-readingroom-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -598,12 +598,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 42, 
       "filename": "2006-whiteflight-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -612,12 +612,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 43, 
       "filename": "2006-whiteflight-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -626,12 +626,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 44, 
       "filename": "2006-whiteflight-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -640,12 +640,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 45, 
       "filename": "2006-whiteflight-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -654,12 +654,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 46, 
       "filename": "2006-whiteflight-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -668,12 +668,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 47, 
       "filename": "2006-whiteflight-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -682,12 +682,12 @@
       "title": "WhiteFlightTeaRoom", 
       "thumb-filename": "th-2006-whiteflight-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 48, 
       "filename": "2006-whiteflight-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -696,12 +696,12 @@
       "title": "Happy Smilers", 
       "thumb-filename": "th-1996-happysmilers-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 49, 
       "filename": "1996-happysmilers-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -710,12 +710,12 @@
       "title": "Happy Smilers", 
       "thumb-filename": "th-1996-happysmilers-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 50, 
       "filename": "1996-happysmilers-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -724,12 +724,12 @@
       "title": "Happy Smilers", 
       "thumb-filename": "th-1996-happysmilers-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 51, 
       "filename": "1996-happysmilers-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -738,12 +738,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-drw-2002-illuminated-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 52, 
       "filename": "drw-2002-illuminated-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -752,12 +752,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-drw-2002-illuminated-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 53, 
       "filename": "drw-2002-illuminated-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -766,12 +766,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-drw-2002-illuminated-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 54, 
       "filename": "drw-2002-illuminated-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -780,12 +780,12 @@
       "title": "Vertical Hold", 
       "thumb-filename": "th-1996-verticalhold-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 55, 
       "filename": "1996-verticalhold-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -794,12 +794,12 @@
       "title": "Vertical Hold", 
       "thumb-filename": "th-1996-verticalhold-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 56, 
       "filename": "1996-verticalhold-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -808,12 +808,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 57, 
       "filename": "2004-episodes-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -822,12 +822,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 58, 
       "filename": "2004-episodes-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -836,12 +836,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 59, 
       "filename": "2004-episodes-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -850,12 +850,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 60, 
       "filename": "2004-episodes-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -864,12 +864,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 61, 
       "filename": "2004-episodes-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -878,12 +878,12 @@
       "title": "Episodes", 
       "thumb-filename": "th-2004-episodes-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 62, 
       "filename": "2004-episodes-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -892,12 +892,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 63, 
       "filename": "drw-2002-06-landings-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -906,12 +906,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 64, 
       "filename": "drw-2002-06-landings-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -920,12 +920,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 65, 
       "filename": "drw-2002-06-landings-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -934,12 +934,12 @@
       "title": "Silent Bird House", 
       "thumb-filename": "th-drw-2006-birdhouse-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 66, 
       "filename": "drw-2006-birdhouse-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -948,12 +948,12 @@
       "title": "Silent Bird House", 
       "thumb-filename": "th-drw-2006-birdhouse-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 67, 
       "filename": "drw-2006-birdhouse-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -962,12 +962,12 @@
       "title": "Silent Bird House", 
       "thumb-filename": "th-drw-2006-birdhouse-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 68, 
       "filename": "drw-2006-birdhouse-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -976,12 +976,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-drw-2008-diamondgym-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 69, 
       "filename": "drw-2008-diamondgym-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -990,12 +990,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-drw-2008-diamondgym-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 70, 
       "filename": "drw-2008-diamondgym-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1004,12 +1004,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-drw-2008-diamondgym-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 71, 
       "filename": "drw-2008-diamondgym-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1018,12 +1018,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-drw-2008-diamondgym-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 72, 
       "filename": "drw-2008-diamondgym-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1032,12 +1032,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 73, 
       "filename": "2004-07-naturalization-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1046,12 +1046,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 74, 
       "filename": "2004-07-naturalization-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1060,12 +1060,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 75, 
       "filename": "2004-07-naturalization-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1074,12 +1074,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 76, 
       "filename": "2004-07-naturalization-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1088,12 +1088,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 77, 
       "filename": "2004-07-naturalization-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1102,12 +1102,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 78, 
       "filename": "2004-07-naturalization-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1116,12 +1116,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 79, 
       "filename": "2004-07-naturalization-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1130,12 +1130,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 80, 
       "filename": "2004-07-naturalization-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1144,12 +1144,12 @@
       "title": "Naturalization", 
       "thumb-filename": "th-2004-07-naturalization-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 81, 
       "filename": "2004-07-naturalization-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1158,12 +1158,12 @@
       "title": "Super Stud", 
       "thumb-filename": "th-1995-01-superstud-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 82, 
       "filename": "1995-01-superstud-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1172,26 +1172,26 @@
       "title": "Super Stud", 
       "thumb-filename": "th-1995-01-superstud-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 83, 
       "filename": "1995-01-superstud-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
-      "website-parameters": [
+      "website-parameters": [ 
         "gallery"
       ], 
       "title": "Super Stud", 
       "thumb-filename": "th-1995-01-superstud-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 84, 
       "filename": "1995-01-superstud-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1200,12 +1200,12 @@
       "title": "Super Stud", 
       "thumb-filename": "th-1995-01-superstud-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 85, 
       "filename": "1995-01-superstud-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1214,12 +1214,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 86, 
       "filename": "2004-copulations-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1228,12 +1228,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 87, 
       "filename": "2004-copulations-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1242,12 +1242,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 88, 
       "filename": "2004-copulations-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1256,12 +1256,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 89, 
       "filename": "2004-copulations-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1270,12 +1270,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 90, 
       "filename": "2004-copulations-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1284,12 +1284,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 91, 
       "filename": "2004-copulations-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1298,12 +1298,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 92, 
       "filename": "2004-copulations-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1312,12 +1312,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 93, 
       "filename": "2004-copulations-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1326,12 +1326,12 @@
       "title": "Copulations Series", 
       "thumb-filename": "th-2004-copulations-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 94, 
       "filename": "2004-copulations-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1340,12 +1340,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 95, 
       "filename": "2002-fortress-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1354,12 +1354,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 96, 
       "filename": "2002-fortress-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1368,12 +1368,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 97, 
       "filename": "2002-fortress-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1382,12 +1382,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 98, 
       "filename": "2002-fortress-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1396,12 +1396,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 99, 
       "filename": "2002-fortress-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1410,12 +1410,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 100, 
       "filename": "2002-fortress-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1424,12 +1424,12 @@
       "title": "Fortress", 
       "thumb-filename": "th-2002-fortress-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 101, 
       "filename": "2002-fortress-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1438,12 +1438,12 @@
       "title": "Exodus", 
       "thumb-filename": "th-1993-exodus-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 102, 
       "filename": "1993-exodus-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1452,12 +1452,12 @@
       "title": "Exodus", 
       "thumb-filename": "th-1993-exodus-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 103, 
       "filename": "1993-exodus-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1466,12 +1466,12 @@
       "title": "Exodus", 
       "thumb-filename": "th-1993-exodus-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 104, 
       "filename": "1993-exodus-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1480,12 +1480,12 @@
       "title": "Liquor Soul", 
       "thumb-filename": "th-drw-2008-liquorsoul-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 105, 
       "filename": "drw-2008-liquorsoul-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1494,12 +1494,12 @@
       "title": "Liquor Soul", 
       "thumb-filename": "th-drw-2008-liquorsoul-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 106, 
       "filename": "drw-2008-liquorsoul-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1508,12 +1508,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-2002-illuminated-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 107, 
       "filename": "2002-illuminated-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1522,12 +1522,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-2002-illuminated-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 108, 
       "filename": "2002-illuminated-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1536,12 +1536,12 @@
       "title": "Illuminated", 
       "thumb-filename": "th-2002-illuminated-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 109, 
       "filename": "2002-illuminated-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1550,12 +1550,12 @@
       "title": "Threshhold", 
       "thumb-filename": "th-1996-threshhold-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 110, 
       "filename": "1996-threshhold-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1564,12 +1564,12 @@
       "title": "Threshhold", 
       "thumb-filename": "th-1996-threshhold-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 111, 
       "filename": "1996-threshhold-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1578,12 +1578,12 @@
       "title": "Threshhold", 
       "thumb-filename": "th-1996-threshhold-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 112, 
       "filename": "1996-threshhold-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1592,12 +1592,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 113, 
       "filename": "1993-hungercradle-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1606,12 +1606,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 114, 
       "filename": "1993-hungercradle-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1620,12 +1620,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 115, 
       "filename": "1993-hungercradle-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1634,12 +1634,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 116, 
       "filename": "1993-hungercradle-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1648,12 +1648,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 117, 
       "filename": "1993-hungercradle-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1662,12 +1662,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 118, 
       "filename": "1993-hungercradle-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1676,12 +1676,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 119, 
       "filename": "1993-hungercradle-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1690,12 +1690,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 120, 
       "filename": "1993-hungercradle-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1993", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1704,12 +1704,12 @@
       "title": "Hunger Cradle", 
       "thumb-filename": "th-1993-hungercradle-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 121, 
       "filename": "1993-hungercradle-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1718,12 +1718,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-drw-2005-bottlemessenger-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 122, 
       "filename": "drw-2005-bottlemessenger-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2001", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1732,12 +1732,12 @@
       "title": "Silent Mass", 
       "thumb-filename": "th-2001-silentmass-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 123, 
       "filename": "2001-silentmass-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2001", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1746,12 +1746,12 @@
       "title": "Silent Mass", 
       "thumb-filename": "th-2001-silentmass-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 124, 
       "filename": "2001-silentmass-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2001", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1760,12 +1760,12 @@
       "title": "Silent Mass", 
       "thumb-filename": "th-2001-silentmass-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 125, 
       "filename": "2001-silentmass-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1774,12 +1774,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 126, 
       "filename": "drw-2002-06-landings-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1788,12 +1788,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 127, 
       "filename": "drw-2002-06-landings-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1802,12 +1802,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-drw-2002-06-landings-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 128, 
       "filename": "drw-2002-06-landings-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1816,12 +1816,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 129, 
       "filename": "2002-ritesofway-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1830,12 +1830,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 130, 
       "filename": "2002-ritesofway-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1844,12 +1844,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 131, 
       "filename": "2002-ritesofway-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1858,12 +1858,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 132, 
       "filename": "2002-ritesofway-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1872,12 +1872,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 133, 
       "filename": "2002-ritesofway-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1886,12 +1886,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 134, 
       "filename": "2002-ritesofway-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1900,12 +1900,12 @@
       "title": "Rites of Way", 
       "thumb-filename": "th-2002-ritesofway-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 135, 
       "filename": "2002-ritesofway-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1914,12 +1914,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-silentbirdhouse-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 136, 
       "filename": "2006-silentbirdhouse-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1928,12 +1928,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-silentbirdhouse-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 137, 
       "filename": "2006-silentbirdhouse-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1942,12 +1942,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-silentbirdhouse-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 138, 
       "filename": "2006-silentbirdhouse-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1956,12 +1956,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-silentbirdhouse-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 139, 
       "filename": "2006-silentbirdhouse-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1970,12 +1970,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-silentbirdhouse-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 140, 
       "filename": "2006-silentbirdhouse-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -1984,208 +1984,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-drw-2005-crusader-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 141, 
       "filename": "drw-2005-crusader-01.jpg"
     }, 
     {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 142, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 143, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 144, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 145, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 146, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 147, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 148, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 149, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 150, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 151, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 152, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 153, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 154, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
-      "location": "", 
-      "dimensions": "", 
-      "website-parameters": [
-        "gallery"
-      ], 
-      "title": "Naturalization", 
-      "thumb-filename": "th-drw-2004-07-naturalization-01.jpg", 
-      "series": "", 
-      "media-type": "", 
-      "id": 155, 
-      "filename": "drw-2004-07-naturalization-01.jpg"
-    }, 
-    {
-      "date": 0, 
+      "date": "1998", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2194,12 +1998,12 @@
       "title": "Archipelago", 
       "thumb-filename": "th-1998-archipelago-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 156, 
       "filename": "1998-archipelago-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1998", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2208,12 +2012,12 @@
       "title": "Archipelago", 
       "thumb-filename": "th-1998-archipelago-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 157, 
       "filename": "1998-archipelago-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1996", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2222,12 +2026,12 @@
       "title": "Waiting Trees", 
       "thumb-filename": "th-1996-waitingtrees-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 158, 
       "filename": "1996-waitingtrees-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2236,12 +2040,12 @@
       "title": "Sweet Sweat", 
       "thumb-filename": "th-drw-2006-sweetsweat-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 159, 
       "filename": "drw-2006-sweetsweat-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2250,12 +2054,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 160, 
       "filename": "2006-smile-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2264,12 +2068,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 161, 
       "filename": "2006-smile-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2278,12 +2082,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 162, 
       "filename": "2006-smile-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2292,12 +2096,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 163, 
       "filename": "2006-smile-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2306,12 +2110,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 164, 
       "filename": "2006-smile-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2320,12 +2124,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 165, 
       "filename": "2006-smile-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2334,12 +2138,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 166, 
       "filename": "2006-smile-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2348,12 +2152,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 167, 
       "filename": "2006-smile-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2362,12 +2166,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-smile-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 168, 
       "filename": "2006-smile-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2376,12 +2180,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-sweetsweat-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 169, 
       "filename": "2006-sweetsweat-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2390,12 +2194,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-sweetsweat-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 170, 
       "filename": "2006-sweetsweat-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2404,12 +2208,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-sweetsweat-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 171, 
       "filename": "2006-sweetsweat-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2000", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2418,12 +2222,12 @@
       "title": "Beat Box", 
       "thumb-filename": "th-2000-beatbox-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 172, 
       "filename": "2000-beatbox-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2000", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2432,12 +2236,12 @@
       "title": "Beat Box", 
       "thumb-filename": "th-2000-beatbox-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 173, 
       "filename": "2000-beatbox-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2000", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2446,12 +2250,12 @@
       "title": "Beat Box", 
       "thumb-filename": "th-2000-beatbox-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 174, 
       "filename": "2000-beatbox-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2460,12 +2264,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-entrails-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 175, 
       "filename": "2006-entrails-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2474,12 +2278,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-entrails-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 176, 
       "filename": "2006-entrails-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2488,12 +2292,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-entrails-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 177, 
       "filename": "2006-entrails-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2502,12 +2306,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-entrails-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 178, 
       "filename": "2006-entrails-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2516,12 +2320,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-entrails-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 179, 
       "filename": "2006-entrails-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1997", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2530,12 +2334,12 @@
       "title": "Virgin Fertility", 
       "thumb-filename": "th-1997-virginfertility-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 180, 
       "filename": "1997-virginfertility-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1997", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2544,12 +2348,12 @@
       "title": "Virgin Fertility", 
       "thumb-filename": "th-1997-virginfertility-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 181, 
       "filename": "1997-virginfertility-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1997", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2558,12 +2362,12 @@
       "title": "Virgin Fertility", 
       "thumb-filename": "th-1997-virginfertility-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 182, 
       "filename": "1997-virginfertility-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2004", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2572,12 +2376,12 @@
       "title": "Glory", 
       "thumb-filename": "th-drw-2004-glory-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "drawings",
       "id": 183, 
       "filename": "drw-2004-glory-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2586,12 +2390,12 @@
       "title": "Iron Heavens", 
       "thumb-filename": "th-1995-ironheavens-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 184, 
       "filename": "1995-ironheavens-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "1995", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2600,138 +2404,138 @@
       "title": "Iron Heavens", 
       "thumb-filename": "th-1995-ironheavens-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 185, 
       "filename": "1995-ironheavens-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 186, 
       "filename": "2007-soul-salvage-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 187, 
       "filename": "2007-soul-salvage-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 188, 
       "filename": "2007-soul-salvage-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 189, 
       "filename": "2007-soul-salvage-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 190, 
       "filename": "2007-soul-salvage-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 191, 
       "filename": "2007-soul-salvage-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 192, 
       "filename": "2007-soul-salvage-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 193, 
       "filename": "2007-soul-salvage-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006-2007", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
         "gallery"
       ], 
-      "title": "SalvageResearchSoulTraining", 
+      "title": "Salvage Research Soul Training", 
       "thumb-filename": "th-2007-soul-salvage-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 194, 
       "filename": "2007-soul-salvage-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2740,12 +2544,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-2005-bottlemessenger-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 195, 
       "filename": "2005-bottlemessenger-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2754,12 +2558,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-2005-bottlemessenger-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 196, 
       "filename": "2005-bottlemessenger-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2768,12 +2572,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-2005-bottlemessenger-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 197, 
       "filename": "2005-bottlemessenger-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2782,12 +2586,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-2005-bottlemessenger-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 198, 
       "filename": "2005-bottlemessenger-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2796,12 +2600,12 @@
       "title": "Bottle Messenger", 
       "thumb-filename": "th-2005-bottlemessenger-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 199, 
       "filename": "2005-bottlemessenger-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2810,12 +2614,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 200, 
       "filename": "2005-crusader-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2824,12 +2628,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 201, 
       "filename": "2005-crusader-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2838,12 +2642,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 202, 
       "filename": "2005-crusader-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2852,12 +2656,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 203, 
       "filename": "2005-crusader-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2866,12 +2670,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 204, 
       "filename": "2005-crusader-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2880,12 +2684,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 205, 
       "filename": "2005-crusader-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2894,12 +2698,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 206, 
       "filename": "2005-crusader-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2908,12 +2712,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 207, 
       "filename": "2005-crusader-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2005", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2922,12 +2726,12 @@
       "title": "Crusader", 
       "thumb-filename": "th-2005-crusader-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 208, 
       "filename": "2005-crusader-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2936,12 +2740,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 209, 
       "filename": "2006-blacktopman-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2950,12 +2754,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 210, 
       "filename": "2006-blacktopman-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2964,12 +2768,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 211, 
       "filename": "2006-blacktopman-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2978,12 +2782,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 212, 
       "filename": "2006-blacktopman-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -2992,12 +2796,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 213, 
       "filename": "2006-blacktopman-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3006,12 +2810,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 214, 
       "filename": "2006-blacktopman-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3020,12 +2824,12 @@
       "title": "Good Citizen", 
       "thumb-filename": "th-2006-blacktopman-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 215, 
       "filename": "2006-blacktopman-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3034,12 +2838,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 216, 
       "filename": "2008-diamond-gym-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3048,12 +2852,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 217, 
       "filename": "2008-diamond-gym-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3062,12 +2866,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 218, 
       "filename": "2008-diamond-gym-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3076,12 +2880,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 219, 
       "filename": "2008-diamond-gym-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3090,12 +2894,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-05.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 220, 
       "filename": "2008-diamond-gym-05.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3104,12 +2908,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-06.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 221, 
       "filename": "2008-diamond-gym-06.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3118,12 +2922,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-07.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 222, 
       "filename": "2008-diamond-gym-07.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3132,12 +2936,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-08.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 223, 
       "filename": "2008-diamond-gym-08.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2008", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3146,12 +2950,12 @@
       "title": "Diamond Gym", 
       "thumb-filename": "th-2008-diamond-gym-09.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 224, 
       "filename": "2008-diamond-gym-09.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3160,12 +2964,12 @@
       "title": "Fortress Signage", 
       "thumb-filename": "th-2002-fortress-sign-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 225, 
       "filename": "2002-fortress-sign-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3174,12 +2978,12 @@
       "title": "Fortress Signage", 
       "thumb-filename": "th-2002-fortress-sign-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 226, 
       "filename": "2002-fortress-sign-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3188,12 +2992,12 @@
       "title": "Fortress Signage", 
       "thumb-filename": "th-2002-fortress-sign-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 227, 
       "filename": "2002-fortress-sign-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3202,12 +3006,12 @@
       "title": "Fortress Signage", 
       "thumb-filename": "th-2002-fortress-sign-04.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 228, 
       "filename": "2002-fortress-sign-04.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3216,12 +3020,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-landings-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 229, 
       "filename": "2002-06-landings-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3230,12 +3034,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-landings-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 230, 
       "filename": "2002-06-landings-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3244,12 +3048,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-landings-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 231, 
       "filename": "2002-06-landings-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3258,12 +3062,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-land-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 232, 
       "filename": "2002-06-land-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3272,12 +3076,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-land-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 233, 
       "filename": "2002-06-land-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2002-2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3286,12 +3090,12 @@
       "title": "Land and Landings", 
       "thumb-filename": "th-2002-06-land-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 234, 
       "filename": "2002-06-land-03.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3300,12 +3104,12 @@
       "title": "Bottle Whisperer", 
       "thumb-filename": "th-2006-bottlewhisper-01.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 235, 
       "filename": "2006-bottlewhisper-01.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3314,12 +3118,12 @@
       "title": "Bottle Whisperer", 
       "thumb-filename": "th-2006-bottlewhisper-02.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 236, 
       "filename": "2006-bottlewhisper-02.jpg"
     }, 
     {
-      "date": 0, 
+      "date": "2006", 
       "location": "", 
       "dimensions": "", 
       "website-parameters": [
@@ -3328,9 +3132,527 @@
       "title": "Bottle Whisperer", 
       "thumb-filename": "th-2006-bottlewhisper-03.jpg", 
       "series": "", 
-      "media-type": "", 
+      "media-type": "images",
       "id": 237, 
       "filename": "2006-bottlewhisper-03.jpg"
+    },
+    {
+      "date": "2005", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Bottle Messenger", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 142, 
+      "filename": "2005-bottlemessenger-main.jpg"
+    },
+    {
+      "date": "2005", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Crusader", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 143, 
+      "filename": "2005-crusader-main.jpg"
+    },    
+    {
+      "date": "2005", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Good Citizen", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 144, 
+      "filename": "2005-goodcitizen-main.jpg"
+    },    
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Blacktop Man", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 145, 
+      "filename": "2006-blacktopman-main.jpg"
+    },
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Bottle Whisperer", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 146, 
+      "filename": "2006-bottlewhisper-main.jpg"
+    },
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Entrails", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 147, 
+      "filename": "2006-entrails-main.jpg"
+    },    
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Silent Birdhouse", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 148, 
+      "filename": "2006-silentbirdhouse-main.jpg"
+    },    
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Smile", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 149, 
+      "filename": "2006-smile-main.jpg"
+    },
+    {
+      "date": "2006-2007", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Salvage Research Soul Training", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 150, 
+      "filename": "2006-soulsalvage-main.jpg"
+    },
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Sweet Sweat", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 151, 
+      "filename": "2006-sweetsweat-main.jpg"
+    },    
+    {
+      "date": "2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "White Flight Tea Room", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 152, 
+      "filename": "2006-whiteflight-main.jpg"
+    },    
+    {
+      "date": "2008", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Liquor Soul", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 153, 
+      "filename": "2008-liquorsoul-main.jpg"
+    },
+    {
+      "date": "2008", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Diamond Gym : Action Network", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 154, 
+      "filename": "2008-diamondgym-main.jpg"
+    },
+    {
+      "date": "1998", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Archipelago", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 155, 
+      "filename": "1998-archipelago-main.jpg"
+    },    
+    {
+      "date": "1997", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Virgin Fertility", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 238, 
+      "filename": "1997-virginfertility-main.jpg"
+    },    
+    {
+      "date": "1996", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Waiting Trees", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 239, 
+      "filename": "1996-waitingtrees-main.jpg"
+    },
+    {
+      "date": "1996", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Vertical Hold", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 240, 
+      "filename": "1996-verticalhold-main.jpg"
+    },
+    {
+      "date": "1996", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Threshhold", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 241, 
+      "filename": "1996-threshhold-main.jpg"
+    },
+    {
+      "date": "1996", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Peace Keeper", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 242, 
+      "filename": "1996-peacekeeper-main.jpg"
+    },
+    {
+      "date": "1996", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Happy Smilers", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 243, 
+      "filename": "1996-happysmilers-main.jpg"
+    },
+    {
+      "date": "1995-2001", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Super Stud", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 244, 
+      "filename": "1995-01-superstud-main.jpg"
+    },
+    {
+      "date": "0", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Iron Heavens", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 245, 
+      "filename": "1995-ironheavens-main.jpg"
+    },
+    {
+      "date": "1993", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Hunger Cradle", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 246, 
+      "filename": "1993-hungercradle-main.jpg"
+    },
+    {
+      "date": "1993", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Exodus", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 247, 
+      "filename": "1993-exodus-main.jpg"
+    },
+    {
+      "date": "1993", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Amazing Grace", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 248, 
+      "filename": "1993-amazinggrace-main.jpg"
+    },
+    {
+      "date": "2004-2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Naturalization", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 249, 
+      "filename": "2004-06-naturalization-main.jpg"
+    },
+    {
+      "date": "2004", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Reading Room", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 250, 
+      "filename": "2004-readingroom-main.jpg"
+    },
+    {
+      "date": "2004", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Glory", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 251, 
+      "filename": "2004-glory-main.jpg"
+    },
+    {
+      "date": "2004", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Episodes", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 252, 
+      "filename": "2004-episodes-main.jpg"
+    },
+    {
+      "date": "2004", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Copulations", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 253, 
+      "filename": "2004-copulations-main.jpg"
+    },
+    {
+      "date": "2004", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Airplane Tears", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 254, 
+      "filename": "2004-airplanetears-main.jpg"
+    },
+    {
+      "date": "2002", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Rites of Way", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 255, 
+      "filename": "2002-ritesofway-main.jpg"
+    },
+    {
+      "date": "2002", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Illuminated", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 256, 
+      "filename": "2002-illuminated-main.jpg"
+    },
+    {
+      "date": "2002", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Fortress", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 257, 
+      "filename": "2002-fortress-main.jpg"
+    },
+    {
+      "date": "2002-2006", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Land and Landings", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 258, 
+      "filename": "2002-06-land-main.jpg"
+    },
+    {
+      "date": "2001", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Silent Mass", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 259, 
+      "filename": "2001-silentmass-main.jpg"
+    },
+    {
+      "date": "2000", 
+      "location": "", 
+      "dimensions": "", 
+      "website-parameters": [
+        "slider"
+      ], 
+      "title": "Beat Box", 
+      "thumb-filename": "", 
+      "series": "", 
+      "media-type": "",
+      "id": 260, 
+      "filename": "2000-beatbox-main.jpg"
     }
   ]
 }
