@@ -285,11 +285,11 @@ function thumbsCallback(data) {
   
   content.style.display = "block";
   
-  //add fancybox events to each of the thumbs
+  //add slimbox events to each of the thumbs
   var thumbs = content.getElementsByTagName("a");
 
-  ////call to fancybox
-  //jQuery.thumbs.fancybox; 
+  //slimbox needs this to be a mootools Element
+  $$(thumbs).slimbox(); 
 }
 
 

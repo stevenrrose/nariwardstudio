@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN"
+          "http://www.w3.org/TR/xhtml11/DTD/xhtml11-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
   <head>
@@ -12,29 +12,34 @@
       @import "css/room.css";
       @import "css/room-text.css";
       @import "css/room-thumbs.css";
+<!--
       @import "css/slimbox.css";
+-->
+      @import "css/jquery.fancybox.css";
+      @import "css/jquery.fancybox-buttons.css";
     </style>
 
     <script type="text/javascript" src="js/mootools-1.2.5-core-yc.js"></script>
     <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-
     <script type="text/javascript">
       
       jQuery.noConflict();
 
     </script>
-
+<!--
     <script type="text/javascript" src="js/slimbox.js"></script>
-
+-->
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox-buttons.js"></script>    
     <script type="text/javascript" src="js/gallery.js"></script>
-
-
-
-
+    <script type="text/javascript">
+      jQuery.(document).ready(function() {
+		  jQuery.(".fancybox").fancybox();
+    });
+    </script>
   </head>
-
+  
   <body>
-
     <div id="wrapper">
 
       <a id="brand" href="main.html"></a>
