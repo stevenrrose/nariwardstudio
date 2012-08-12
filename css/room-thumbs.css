@@ -11,7 +11,7 @@
     margin-top: 7px;
 }
 
-.fancybox
+#thumbBox a
 {
     position: absolute;
     display: block;
@@ -19,7 +19,7 @@
     height: 125px;
 }
 
-.fancybox:hover
+#thumbBox a:hover
 {
     opacity: 0.85;
     filter:alpha(opacity=85);

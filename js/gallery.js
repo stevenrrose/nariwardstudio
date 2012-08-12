@@ -41,7 +41,10 @@ function roomEvents(){
 
 }
 
-window.addEvent("domready", roomEvents);
+
+jQuery(document).ready(roomEvents);
+
+
 
 
 /*************************************************************/
@@ -286,10 +289,8 @@ function thumbsCallback(data) {
   content.style.display = "block";
   
   //add fancybox events to each of the thumbs
-  var thumbs = content.getElementsByTagName("a");
 
-  ////call to fancybox
-  //jQuery.thumbs.fancybox; 
+  jQuery('#thumbBox a').fancybox(); 
 }
 
 
