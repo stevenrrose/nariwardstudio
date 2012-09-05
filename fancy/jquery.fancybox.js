@@ -114,13 +114,13 @@
 			closeMethod: 'zoomOut',
 
 			// Changing next gallery item
-			nextEffect: 'elastic', // 'elastic', 'fade' or 'none'
+			nextEffect: 'none', // 'elastic', 'fade' or 'none'
 			nextSpeed: 300,
 			nextEasing: 'swing',
 			nextMethod: 'changeIn',
 
 			// Changing previous gallery item
-			prevEffect: 'elastic', // 'elastic', 'fade' or 'none'
+			prevEffect: 'none', // 'elastic', 'fade' or 'none'
 			prevSpeed: 300,
 			prevEasing: 'swing',
 			prevMethod: 'changeOut',
